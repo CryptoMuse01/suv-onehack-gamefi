@@ -65,6 +65,9 @@
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.3",
     "zod": "^3.23.8"
+        "@mysten/dapp-kit": "^0.13.1",
+    "@mysten/sui": "^1.2.0",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
